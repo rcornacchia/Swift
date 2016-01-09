@@ -23,6 +23,7 @@ class GameScene: SKScene {
         background.position = CGPoint(x: 0, y: 0)
         background.anchorPoint = CGPoint(x: 0, y: 0)
         addChild(background)
+        
     }
     
     override func update(currentTime: CFTimeInterval) {
