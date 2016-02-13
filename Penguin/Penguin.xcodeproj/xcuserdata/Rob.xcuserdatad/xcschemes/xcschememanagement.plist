@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>SuperCool.xcscheme</key>
+		<key>Penguin.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>D40EF0A41C68D2CA00BCFECA</key>
+		<key>D46B00AD1C6F05F400D9FCBD</key>
 		<dict>
 			<key>primary</key>
 			<true/>

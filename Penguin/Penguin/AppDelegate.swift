@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SuperCool
+//  Penguin
 //
-//  Created by Rob Cornacchia on 2/8/16.
+//  Created by Rob Cornacchia on 2/13/16.
 //  Copyright © 2016 Blackbird. All rights reserved.
 //
 

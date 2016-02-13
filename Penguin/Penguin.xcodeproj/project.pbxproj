@@ -7,25 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D40EF0A91C68D2CA00BCFECA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40EF0A81C68D2CA00BCFECA /* AppDelegate.swift */; };
-		D40EF0AB1C68D2CA00BCFECA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D40EF0AA1C68D2CA00BCFECA /* ViewController.swift */; };
-		D40EF0AE1C68D2CA00BCFECA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D40EF0AC1C68D2CA00BCFECA /* Main.storyboard */; };
-		D40EF0B01C68D2CA00BCFECA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D40EF0AF1C68D2CA00BCFECA /* Assets.xcassets */; };
-		D40EF0B31C68D2CA00BCFECA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D40EF0B11C68D2CA00BCFECA /* LaunchScreen.storyboard */; };
+		D46B00B21C6F05F400D9FCBD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46B00B11C6F05F400D9FCBD /* AppDelegate.swift */; };
+		D46B00B41C6F05F400D9FCBD /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = D46B00B31C6F05F400D9FCBD /* GameScene.sks */; };
+		D46B00B61C6F05F400D9FCBD /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46B00B51C6F05F400D9FCBD /* GameScene.swift */; };
+		D46B00B81C6F05F400D9FCBD /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D46B00B71C6F05F400D9FCBD /* GameViewController.swift */; };
+		D46B00BB1C6F05F400D9FCBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D46B00B91C6F05F400D9FCBD /* Main.storyboard */; };
+		D46B00BD1C6F05F400D9FCBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D46B00BC1C6F05F400D9FCBD /* Assets.xcassets */; };
+		D46B00C01C6F05F400D9FCBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D46B00BE1C6F05F400D9FCBD /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D40EF0A51C68D2CA00BCFECA /* SuperCool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperCool.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D40EF0A81C68D2CA00BCFECA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D40EF0AA1C68D2CA00BCFECA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		D40EF0AD1C68D2CA00BCFECA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D40EF0AF1C68D2CA00BCFECA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		D40EF0B21C68D2CA00BCFECA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D40EF0B41C68D2CA00BCFECA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D46B00AE1C6F05F400D9FCBD /* Penguin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Penguin.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D46B00B11C6F05F400D9FCBD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D46B00B31C6F05F400D9FCBD /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		D46B00B51C6F05F400D9FCBD /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		D46B00B71C6F05F400D9FCBD /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		D46B00BA1C6F05F400D9FCBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D46B00BC1C6F05F400D9FCBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D46B00BF1C6F05F400D9FCBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D46B00C11C6F05F400D9FCBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D40EF0A21C68D2CA00BCFECA /* Frameworks */ = {
+		D46B00AB1C6F05F400D9FCBD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +39,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D40EF09C1C68D2CA00BCFECA = {
+		D46B00A51C6F05F400D9FCBD = {
 			isa = PBXGroup;
 			children = (
-				D40EF0A71C68D2CA00BCFECA /* SuperCool */,
-				D40EF0A61C68D2CA00BCFECA /* Products */,
+				D46B00B01C6F05F400D9FCBD /* Penguin */,
+				D46B00AF1C6F05F400D9FCBD /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D40EF0A61C68D2CA00BCFECA /* Products */ = {
+		D46B00AF1C6F05F400D9FCBD /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D40EF0A51C68D2CA00BCFECA /* SuperCool.app */,
+				D46B00AE1C6F05F400D9FCBD /* Penguin.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		D40EF0A71C68D2CA00BCFECA /* SuperCool */ = {
+		D46B00B01C6F05F400D9FCBD /* Penguin */ = {
 			isa = PBXGroup;
 			children = (
-				D40EF0A81C68D2CA00BCFECA /* AppDelegate.swift */,
-				D40EF0AA1C68D2CA00BCFECA /* ViewController.swift */,
-				D40EF0AC1C68D2CA00BCFECA /* Main.storyboard */,
-				D40EF0AF1C68D2CA00BCFECA /* Assets.xcassets */,
-				D40EF0B11C68D2CA00BCFECA /* LaunchScreen.storyboard */,
-				D40EF0B41C68D2CA00BCFECA /* Info.plist */,
+				D46B00B11C6F05F400D9FCBD /* AppDelegate.swift */,
+				D46B00B31C6F05F400D9FCBD /* GameScene.sks */,
+				D46B00B51C6F05F400D9FCBD /* GameScene.swift */,
+				D46B00B71C6F05F400D9FCBD /* GameViewController.swift */,
+				D46B00B91C6F05F400D9FCBD /* Main.storyboard */,
+				D46B00BC1C6F05F400D9FCBD /* Assets.xcassets */,
+				D46B00BE1C6F05F400D9FCBD /* LaunchScreen.storyboard */,
+				D46B00C11C6F05F400D9FCBD /* Info.plist */,
 			);
-			path = SuperCool;
+			path = Penguin;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D40EF0A41C68D2CA00BCFECA /* SuperCool */ = {
+		D46B00AD1C6F05F400D9FCBD /* Penguin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D40EF0B71C68D2CA00BCFECA /* Build configuration list for PBXNativeTarget "SuperCool" */;
+			buildConfigurationList = D46B00C41C6F05F400D9FCBD /* Build configuration list for PBXNativeTarget "Penguin" */;
 			buildPhases = (
-				D40EF0A11C68D2CA00BCFECA /* Sources */,
-				D40EF0A21C68D2CA00BCFECA /* Frameworks */,
-				D40EF0A31C68D2CA00BCFECA /* Resources */,
+				D46B00AA1C6F05F400D9FCBD /* Sources */,
+				D46B00AB1C6F05F400D9FCBD /* Frameworks */,
+				D46B00AC1C6F05F400D9FCBD /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = SuperCool;
-			productName = SuperCool;
-			productReference = D40EF0A51C68D2CA00BCFECA /* SuperCool.app */;
+			name = Penguin;
+			productName = Penguin;
+			productReference = D46B00AE1C6F05F400D9FCBD /* Penguin.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D40EF09D1C68D2CA00BCFECA /* Project object */ = {
+		D46B00A61C6F05F400D9FCBD /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = Blackbird;
 				TargetAttributes = {
-					D40EF0A41C68D2CA00BCFECA = {
+					D46B00AD1C6F05F400D9FCBD = {
 						CreatedOnToolsVersion = 7.2.1;
 						DevelopmentTeam = Y777YR5YU9;
 					};
 				};
 			};
-			buildConfigurationList = D40EF0A01C68D2CA00BCFECA /* Build configuration list for PBXProject "SuperCool" */;
+			buildConfigurationList = D46B00A91C6F05F400D9FCBD /* Build configuration list for PBXProject "Penguin" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +114,56 @@
 				en,
 				Base,
 			);
-			mainGroup = D40EF09C1C68D2CA00BCFECA;
-			productRefGroup = D40EF0A61C68D2CA00BCFECA /* Products */;
+			mainGroup = D46B00A51C6F05F400D9FCBD;
+			productRefGroup = D46B00AF1C6F05F400D9FCBD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D40EF0A41C68D2CA00BCFECA /* SuperCool */,
+				D46B00AD1C6F05F400D9FCBD /* Penguin */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D40EF0A31C68D2CA00BCFECA /* Resources */ = {
+		D46B00AC1C6F05F400D9FCBD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D40EF0B31C68D2CA00BCFECA /* LaunchScreen.storyboard in Resources */,
-				D40EF0B01C68D2CA00BCFECA /* Assets.xcassets in Resources */,
-				D40EF0AE1C68D2CA00BCFECA /* Main.storyboard in Resources */,
+				D46B00B41C6F05F400D9FCBD /* GameScene.sks in Resources */,
+				D46B00C01C6F05F400D9FCBD /* LaunchScreen.storyboard in Resources */,
+				D46B00BD1C6F05F400D9FCBD /* Assets.xcassets in Resources */,
+				D46B00BB1C6F05F400D9FCBD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D40EF0A11C68D2CA00BCFECA /* Sources */ = {
+		D46B00AA1C6F05F400D9FCBD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D40EF0AB1C68D2CA00BCFECA /* ViewController.swift in Sources */,
-				D40EF0A91C68D2CA00BCFECA /* AppDelegate.swift in Sources */,
+				D46B00B61C6F05F400D9FCBD /* GameScene.swift in Sources */,
+				D46B00B81C6F05F400D9FCBD /* GameViewController.swift in Sources */,
+				D46B00B21C6F05F400D9FCBD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		D40EF0AC1C68D2CA00BCFECA /* Main.storyboard */ = {
+		D46B00B91C6F05F400D9FCBD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D40EF0AD1C68D2CA00BCFECA /* Base */,
+				D46B00BA1C6F05F400D9FCBD /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		D40EF0B11C68D2CA00BCFECA /* LaunchScreen.storyboard */ = {
+		D46B00BE1C6F05F400D9FCBD /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				D40EF0B21C68D2CA00BCFECA /* Base */,
+				D46B00BF1C6F05F400D9FCBD /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +171,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		D40EF0B51C68D2CA00BCFECA /* Debug */ = {
+		D46B00C21C6F05F400D9FCBD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -182,7 +190,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
-				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -204,10 +212,11 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		D40EF0B61C68D2CA00BCFECA /* Release */ = {
+		D46B00C31C6F05F400D9FCBD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -240,28 +249,29 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		D40EF0B81C68D2CA00BCFECA /* Debug */ = {
+		D46B00C51C6F05F400D9FCBD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = SuperCool/Info.plist;
+				INFOPLIST_FILE = Penguin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.robraven.SuperCool;
+				PRODUCT_BUNDLE_IDENTIFIER = com.robraven.Penguin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		D40EF0B91C68D2CA00BCFECA /* Release */ = {
+		D46B00C61C6F05F400D9FCBD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = SuperCool/Info.plist;
+				INFOPLIST_FILE = Penguin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.robraven.SuperCool;
+				PRODUCT_BUNDLE_IDENTIFIER = com.robraven.Penguin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -269,24 +279,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D40EF0A01C68D2CA00BCFECA /* Build configuration list for PBXProject "SuperCool" */ = {
+		D46B00A91C6F05F400D9FCBD /* Build configuration list for PBXProject "Penguin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D40EF0B51C68D2CA00BCFECA /* Debug */,
-				D40EF0B61C68D2CA00BCFECA /* Release */,
+				D46B00C21C6F05F400D9FCBD /* Debug */,
+				D46B00C31C6F05F400D9FCBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D40EF0B71C68D2CA00BCFECA /* Build configuration list for PBXNativeTarget "SuperCool" */ = {
+		D46B00C41C6F05F400D9FCBD /* Build configuration list for PBXNativeTarget "Penguin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D40EF0B81C68D2CA00BCFECA /* Debug */,
-				D40EF0B91C68D2CA00BCFECA /* Release */,
+				D46B00C51C6F05F400D9FCBD /* Debug */,
+				D46B00C61C6F05F400D9FCBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D40EF09D1C68D2CA00BCFECA /* Project object */;
+	rootObject = D46B00A61C6F05F400D9FCBD /* Project object */;
 }

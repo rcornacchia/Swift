@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  SuperCool
 //
-//  Created by Rob Cornacchia on 12/26/15.
-//  Copyright © 2015 Blackbird. All rights reserved.
+//  Created by Rob Cornacchia on 2/8/16.
+//  Copyright © 2016 Blackbird. All rights reserved.
 //
 
 import UIKit

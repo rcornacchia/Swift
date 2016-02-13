@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D40EF0A41C68D2CA00BCFECA"
-               BuildableName = "SuperCool.app"
-               BlueprintName = "SuperCool"
-               ReferencedContainer = "container:SuperCool.xcodeproj">
+               BlueprintIdentifier = "D46B00AD1C6F05F400D9FCBD"
+               BuildableName = "Penguin.app"
+               BlueprintName = "Penguin"
+               ReferencedContainer = "container:Penguin.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D40EF0A41C68D2CA00BCFECA"
-            BuildableName = "SuperCool.app"
-            BlueprintName = "SuperCool"
-            ReferencedContainer = "container:SuperCool.xcodeproj">
+            BlueprintIdentifier = "D46B00AD1C6F05F400D9FCBD"
+            BuildableName = "Penguin.app"
+            BlueprintName = "Penguin"
+            ReferencedContainer = "container:Penguin.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D40EF0A41C68D2CA00BCFECA"
-            BuildableName = "SuperCool.app"
-            BlueprintName = "SuperCool"
-            ReferencedContainer = "container:SuperCool.xcodeproj">
+            BlueprintIdentifier = "D46B00AD1C6F05F400D9FCBD"
+            BuildableName = "Penguin.app"
+            BlueprintName = "Penguin"
+            ReferencedContainer = "container:Penguin.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D40EF0A41C68D2CA00BCFECA"
-            BuildableName = "SuperCool.app"
-            BlueprintName = "SuperCool"
-            ReferencedContainer = "container:SuperCool.xcodeproj">
+            BlueprintIdentifier = "D46B00AD1C6F05F400D9FCBD"
+            BuildableName = "Penguin.app"
+            BlueprintName = "Penguin"
+            ReferencedContainer = "container:Penguin.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
